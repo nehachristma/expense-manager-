@@ -1,2 +1,2 @@
-# expense-manager-
-expense manager in c using file handling
+# Expense- Tracker
+expense Tracker in c using file handling
